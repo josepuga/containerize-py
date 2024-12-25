@@ -1,2 +1,8 @@
+.vscode/
 NOTAS.txt
 NOTAS
+
+# Created with some tests
+.containerignore
+Containerfile
+requirements.txt
